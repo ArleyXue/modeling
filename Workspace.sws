@@ -4,7 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{52B59421-1EEA-4377-B21E-6D4D9BDDF300}" Name="yql" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="yql.pdm"/>
+		<Model Expanded="Yes" ID="{52B59421-1EEA-4377-B21E-6D4D9BDDF300}" Loaded="No" Name="yql" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="yql.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
